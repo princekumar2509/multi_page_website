@@ -1,4 +1,4 @@
-# 🌐 NovaWeb – Multi-Page Responsive Website
+# 🌐 PixelCraft – Multi-Page Responsive Website
 
 A modern, responsive, and professional multi-page website built using **HTML5, CSS3, and JavaScript**.
 
@@ -8,7 +8,7 @@ This project demonstrates how to create multiple interconnected web pages with a
 
 ## 📌 Project Overview
 
-**NovaWeb** is a multi-page website developed as part of a web development project.
+**PixelCraft** is a multi-page website developed as part of a web development project.
 
 The website contains four main pages:
 
@@ -129,8 +129,6 @@ NovaWeb/
 ├── css/
 │   └── style.css
 │
-├── js/
-│   └── script.js
 │
 ├── images/
 │   └── about.jpg
